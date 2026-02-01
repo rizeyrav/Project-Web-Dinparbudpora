@@ -1,9 +1,13 @@
+using WebDinparbudpora.Infrastructure;
 // 1.Entri awal ASP.NET CORE
 var builder = WebApplication.CreateBuilder(args);
 
 // 2.Register Controller
 // builder.Services.AddOpenApi(); Ganti menjadi
 builder.Services.AddControllers();
+// Menambahkan Layer Infrastructure
+builder.Services.AddInfrastructure();
+
 
 
 //3. Finalisasi Konfigurasi
