@@ -11,4 +11,9 @@
     <PackageReference Include="Npgsql" Version="10.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebDinparbudpora.Application\WebDinparbudpora.Application.csproj" />
+    <ProjectReference Include="..\WebDinparbudpora.Domain\WebDinparbudpora.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
