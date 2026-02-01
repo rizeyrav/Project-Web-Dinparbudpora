@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Menambahkan Layer Infrastructure
 builder.Services.AddInfrastructure();
 // Menambahkan Layer Application
-builder.Services.AddApplication;
+// builder.Services.AddApplication;
 
 
 

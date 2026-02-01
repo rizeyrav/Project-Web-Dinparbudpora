@@ -1,0 +1,12 @@
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\bin\Debug\net10.0\WebDinparbudpora.Domain.deps.json
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\bin\Debug\net10.0\WebDinparbudpora.Domain.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\bin\Debug\net10.0\WebDinparbudpora.Domain.pdb
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.AssemblyInfoInputs.cache
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.AssemblyInfo.cs
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.csproj.CoreCompileInputs.cache
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.sourcelink.json
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\refint\WebDinparbudpora.Domain.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\WebDinparbudpora.Domain.pdb
+D:\Project Web Dinparbudpora\WebDinparbudpora.Domain\obj\Debug\net10.0\ref\WebDinparbudpora.Domain.dll

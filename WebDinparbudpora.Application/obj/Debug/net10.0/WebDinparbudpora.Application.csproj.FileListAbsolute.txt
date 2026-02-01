@@ -1,0 +1,16 @@
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\bin\Debug\net10.0\WebDinparbudpora.Application.deps.json
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\bin\Debug\net10.0\WebDinparbudpora.Application.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\bin\Debug\net10.0\WebDinparbudpora.Application.pdb
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\bin\Debug\net10.0\WebDinparbudpora.Domain.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\bin\Debug\net10.0\WebDinparbudpora.Domain.pdb
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.csproj.AssemblyReference.cache
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.AssemblyInfoInputs.cache
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.AssemblyInfo.cs
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.csproj.CoreCompileInputs.cache
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.sourcelink.json
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinpa.22F3259E.Up2Date
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\refint\WebDinparbudpora.Application.dll
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\WebDinparbudpora.Application.pdb
+D:\Project Web Dinparbudpora\WebDinparbudpora.Application\obj\Debug\net10.0\ref\WebDinparbudpora.Application.dll
