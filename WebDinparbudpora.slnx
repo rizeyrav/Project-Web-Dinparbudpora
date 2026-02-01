@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="WebDinparbudpora.API/WebDinparbudpora.API.csproj" />
+  <Project Path="WebDinparbudpora.Application/WebDinparbudpora.Application.csproj" />
+  <Project Path="WebDinparbudpora.Domain/WebDinparbudpora.Domain.csproj" />
+  <Project Path="WebDinparbudpora.Infrastructure/WebDinparbudpora.Infrastructure.csproj" />
 </Solution>
