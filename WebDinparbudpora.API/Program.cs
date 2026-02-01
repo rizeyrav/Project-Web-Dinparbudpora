@@ -1,4 +1,5 @@
 using WebDinparbudpora.Infrastructure;
+using WebDinparbudpora.Application;
 // 1.Entri awal ASP.NET CORE
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Menambahkan Layer Infrastructure
 builder.Services.AddInfrastructure();
+// Menambahkan Layer Application
+builder.Services.AddApplication;
 
 
 
