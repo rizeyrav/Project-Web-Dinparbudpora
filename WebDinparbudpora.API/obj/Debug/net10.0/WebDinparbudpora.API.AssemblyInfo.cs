@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDinparbudpora.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205d0ad2574452826bedcf679c0b4910ee6b8f41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0e0ae3b417587fe32679ac4fe167a4f865f702")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDinparbudpora.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDinparbudpora.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
 using WebDinparbudpora.Infrastructure;
 using WebDinparbudpora.Application;
+using System.Data.Common;
 // 1.Entri awal ASP.NET CORE
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // builder.Services.AddOpenApi(); Ganti menjadi
 builder.Services.AddControllers();
 // Menambahkan Layer Infrastructure
-builder.Services.AddInfrastructure();
+builder.Services.AddInfrastructure(builder.Configuration);
 // Menambahkan Layer Application
 // builder.Services.AddApplication;
 
@@ -21,6 +22,13 @@ var app = builder.Build();
 // {
 //     app.MapOpenApi();
 // }
+// Endpoint API Sementara
+app.MapGet("health/db", async (DbConnectionFactory factory) =>
+{
+    using var connect = factory.Create();
+    connect.Open();
+    return Results.Ok("Postgrest DB Connected");
+});
 
 // app.UseHttpsRedirection();
 app.MapControllers();
