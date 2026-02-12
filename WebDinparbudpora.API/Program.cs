@@ -23,12 +23,12 @@ var app = builder.Build();
 //     app.MapOpenApi();
 // }
 // Endpoint API Sementara
-app.MapGet("health/db", async (DbConnectionFactory factory) =>
-{
-    using var connect = factory.Create();
-    connect.Open();
-    return Results.Ok("Postgrest DB Connected");
-});
+// app.MapGet("health/db", async (DbConnectionFactory factory) =>
+// {
+//     using var connect = factory.Create();
+//     connect.Open();
+//     return Results.Ok("Postgrest DB Connected");
+// });
 
 // app.UseHttpsRedirection();
 app.MapControllers();
